@@ -25,7 +25,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.2.3",
-    "uniqCompNum": 6,
+    "uniqCompNum": 8,
     "versionPublish": "4.2.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -80,18 +80,18 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "showImages": true,
             "showName": true,
             "showBio": true,
-            "count": 3,
+            "count": "1",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.2
@@ -116,34 +116,6 @@
                   "linkInNewWindow": false
                 }
               }
-            },
-            {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Jhollman C.",
-              "authorBio": "User",
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
             }
           ],
           "_tags": [
@@ -161,7 +133,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#553982",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -197,13 +169,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#8c7568"
+              "background": "#3e295f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#9c877b!important"
+              "background": "#4e3477!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#a38f84"
+              "background": "#553982"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -244,10 +216,10 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "columnsColor": "#a38f84",
+            "columnsColor": "#553982",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": "3",
@@ -255,7 +227,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -266,7 +238,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-79-600x451.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -278,7 +250,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kw.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -290,10 +262,14 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -320,15 +296,15 @@
               "active": true
             }
           },
-          "title1": "Administrera",
+          "title1": "VISA",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Insamling",
+          "caption1": "- Visa det fantastiska jobb vi lägger ned i butik<br>-&nbsp;Visa alla exponeringar vi gör till alla i företaget<br>- Visa hur dina konkurrenter jobbar<br>-&nbsp;Visa hur vi kan bygga premium exponeringar",
+          "title2": "INSPERERA",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Inspiration",
+          "caption2": "-&nbsp;Inspirera kollegor att lägga upp egna ombyggnationer<br>- Inspirera företagets alla anställda<br>-&nbsp;Inspirera kollegor genom att hitta nya säljpunkter<br><br>",
+          "title3": "TA MER PLATS",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "-&nbsp;Visa butiksansvariga hur ni vill bygga om<br>-&nbsp;Visa dina kunder med verkliga exempel<br>-&nbsp;Visa hur dina kampanjer ser ut i riktig butiksmiljö<br>-&nbsp;Inspirera kollegor att hitta nya säljytor",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -351,7 +327,13 @@
           "_anchor": "features1-2",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#a38f84"
+              "background-color": "#553982"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "left"
             }
           }
         },
@@ -366,7 +348,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
