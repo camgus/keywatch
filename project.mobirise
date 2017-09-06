@@ -20,7 +20,9 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#912d81"
+      ]
     },
     "favicon": "",
     "noImageResize": "",
@@ -63,7 +65,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "<br><br>KEYWATCH<br>",
-          "text": "KeyWatch är ett lättanvänt bildverktyg där alla användare kan se och lägga upp bilder tagna i butik. Det handlar om att kunna Visa, <br>Inpirera och Ta mer plats, med hjälp av sina bilder.<br><br><br><br>",
+          "text": "<p>KeyWatch är ett lättanvänt bildverktyg där alla användare kan se och lägga upp bilder tagna i butik. Det handlar om att kunna Visa, <br>Inpirera och Ta mer plats, med hjälp av sina bilder.<br><br><br><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LADD NED FÖR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LADDA NED FÖR IOS</a>",
           "_tags": [
             "Theme"
@@ -133,7 +135,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#553982",
+            "bgColor": "#912d81",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -169,13 +171,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#3e295f"
+              "background": "#6a215e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#4e3477!important"
+              "background": "#852977!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#553982"
+              "background": "#912d81"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -219,7 +221,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "columnsColor": "#553982",
+            "columnsColor": "#912d81",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": "3",
@@ -327,7 +329,7 @@
           "_anchor": "features1-2",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#553982"
+              "background-color": "#912d81"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "text-align": "left"
